@@ -3,6 +3,7 @@ import USMap from './USMap.js';
 import StateTreemap from './StateTreemap';
 import React, {useState, useEffect} from "react"
 import { northCarolina } from './data/newNorthCarolina';
+import { texas } from './data/Texas';
 import { colors, names } from './data/PartyInfo';
 import StateTreemapSlider from './StateTreemapSlider';
 
@@ -31,7 +32,7 @@ function App() {
   
   return (
     <div className="App">
-      <StateTreemapSlider stateData={northCarolina} mapWidth={700} mapHeight={700}/>
+      <StateTreemapSlider stateData={texas} mapWidth={700} mapHeight={700}/>
     </div>
   );
 }

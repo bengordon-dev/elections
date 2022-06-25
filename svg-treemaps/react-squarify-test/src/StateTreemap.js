@@ -12,9 +12,6 @@ function textColor(rectColor) {
 } 
 
 export default function StateTreemap(props) {
-  useEffect = (() => {
-    alert("yeah")
-  }, [])
   const [treeMap, setTreeMap] = useState(getTreemap(props.svgParams))
   return (
     <svg height={props.svgParams.height} width={props.svgParams.width}>
@@ -37,16 +34,6 @@ export default function StateTreemap(props) {
           </text>
         </g>
       )}
-      
-      {/*treeMap && treeMap.map((rectang, i) => 
-      <text 
-       
-        style={{fill: textColor(rectang.data.color)}}
-        key={rectang.label ? rectang.label : i}
-      >
-        {rectang.data.label}
-      </text>
-      )*/}
     </svg>
     
   )

@@ -1,0 +1,1702 @@
+<svg height="700" width="700">
+<g key="0" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="0"
+        width="30.56"
+        height="19.21"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 3.2016666666666667"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="9.605"
+      >
+        Camden
+      </text>
+    </g>
+<g key="1" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="19.21"
+        width="30.56"
+        height="24.47"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 2.718888888888889"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="31.445"
+      >
+        Currituck
+      </text>
+    </g>
+<g key="2" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="43.69"
+        width="30.56"
+        height="27.2"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 4.533333333333333"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="57.29"
+      >
+        Chowan
+      </text>
+    </g>
+<g key="3" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="70.89"
+        width="30.56"
+        height="28.4"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 2.84"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="85.09"
+      >
+        Perquimans
+      </text>
+    </g>
+<g key="4" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="99.3"
+        width="30.56"
+        height="29.07"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 5.814"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="113.835"
+      >
+        Jones
+      </text>
+    </g>
+<g key="5" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="128.37"
+        width="30.56"
+        height="29.8"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 5.96"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="143.27"
+      >
+        Gates
+      </text>
+    </g>
+<g key="6" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="158.17"
+        width="30.56"
+        height="32.43"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 7.64"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="174.385"
+      >
+        Hyde
+      </text>
+    </g>
+<g key="7" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="190.6"
+        width="30.56"
+        height="36"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 4.365714285714286"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="208.6"
+      >
+        Tyrrell
+      </text>
+    </g>
+<g key="8" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="226.6"
+        width="30.56"
+        height="36.59"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 3.82"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="244.89499999999998"
+      >
+        Hertford
+      </text>
+    </g>
+<g key="9" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="263.19"
+        width="30.56"
+        height="41.86"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 4.365714285714286"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="284.12"
+      >
+        Pamlico
+      </text>
+    </g>
+<g key="10" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="305.05"
+        width="30.56"
+        height="42.99"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 7.64"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="326.545"
+      >
+        Hoke
+      </text>
+    </g>
+<g key="11" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="348.04"
+        width="30.56"
+        height="43.55"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 5.093333333333333"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="369.815"
+      >
+        Greene
+      </text>
+    </g>
+<g key="12" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="391.59"
+        width="30.56"
+        height="48.12"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 5.093333333333333"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="415.65"
+      >
+        Pender
+      </text>
+    </g>
+<g key="13" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="439.71"
+        width="30.56"
+        height="48.52"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 7.64"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="463.96999999999997"
+      >
+        Dare
+      </text>
+    </g>
+<g key="14" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="488.22"
+        width="30.56"
+        height="51.48"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 4.365714285714286"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="513.96"
+      >
+        Caswell
+      </text>
+    </g>
+<g key="15" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="539.7"
+        width="30.56"
+        height="51.71"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 3.056"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="565.5550000000001"
+      >
+        Pasquotank
+      </text>
+    </g>
+<g key="16" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="591.41"
+        width="30.56"
+        height="52.48"
+        style="fill: #1666CB"
+      />
+      <text 
+        style="fill: white; font-size: 5.093333333333333"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="617.65"
+      >
+        Onslow
+      </text>
+    </g>
+<g key="17" transform="scale(1, 1)"> 
+      <rect
+        x="0"
+        y="643.89"
+        width="30.56"
+        height="56.11"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 3.82"
+        dominant-baseline="central" text-anchor="middle" 
+        x="15.28"
+        y="671.9449999999999"
+      >
+        Scotland
+      </text>
+    </g>
+<g key="18" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="0"
+        width="37.84"
+        height="46.32"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 3.7840000000000003"
+        dominant-baseline="central" text-anchor="middle" 
+        x="49.480000000000004"
+        y="23.16"
+      >
+        Washington
+      </text>
+    </g>
+<g key="19" transform="scale(1, 1)"> 
+      <rect
+        x="68.4"
+        y="0"
+        width="38.63"
+        height="46.32"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 6.4383333333333335"
+        dominant-baseline="central" text-anchor="middle" 
+        x="87.715"
+        y="23.16"
+      >
+        Graham
+      </text>
+    </g>
+<g key="20" transform="scale(1, 1)"> 
+      <rect
+        x="107.03"
+        y="0"
+        width="40.04"
+        height="46.32"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 3.64"
+        dominant-baseline="central" text-anchor="middle" 
+        x="127.05"
+        y="23.16"
+      >
+        Northampton
+      </text>
+    </g>
+<g key="21" transform="scale(1, 1)"> 
+      <rect
+        x="147.08"
+        y="0"
+        width="42.81"
+        height="46.32"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 7.135000000000001"
+        dominant-baseline="central" text-anchor="middle" 
+        x="168.485"
+        y="23.16"
+      >
+        Bertie
+      </text>
+    </g>
+<g key="22" transform="scale(1, 1)"> 
+      <rect
+        x="189.88"
+        y="0"
+        width="43.27"
+        height="46.32"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 7.211666666666667"
+        dominant-baseline="central" text-anchor="middle" 
+        x="211.515"
+        y="23.16"
+      >
+        Warren
+      </text>
+    </g>
+<g key="23" transform="scale(1, 1)"> 
+      <rect
+        x="233.15"
+        y="0"
+        width="45.27"
+        height="46.32"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 11.3175"
+        dominant-baseline="central" text-anchor="middle" 
+        x="255.785"
+        y="23.16"
+      >
+        Clay
+      </text>
+    </g>
+<g key="24" transform="scale(1, 1)"> 
+      <rect
+        x="278.42"
+        y="0"
+        width="48.85"
+        height="46.32"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 7.72"
+        dominant-baseline="central" text-anchor="middle" 
+        x="302.845"
+        y="23.16"
+      >
+        Martin
+      </text>
+    </g>
+<g key="25" transform="scale(1, 1)"> 
+      <rect
+        x="327.27"
+        y="0"
+        width="49.13"
+        height="46.32"
+        style="fill: #FF4C4C"
+      />
+      <text 
+        style="fill: white; font-size: 5.79"
+        dominant-baseline="central" text-anchor="middle" 
+        x="351.835"
+        y="23.16"
+      >
+        Mitchell
+      </text>
+    </g>
+<g key="26" transform="scale(1, 1)"> 
+      <rect
+        x="376.4"
+        y="0"
+        width="50.65"
+        height="46.32"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 5.79"
+        dominant-baseline="central" text-anchor="middle" 
+        x="401.72499999999997"
+        y="23.16"
+      >
+        Franklin
+      </text>
+    </g>
+<g key="27" transform="scale(1, 1)"> 
+      <rect
+        x="427.05"
+        y="0"
+        width="51.84"
+        height="46.32"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 7.72"
+        dominant-baseline="central" text-anchor="middle" 
+        x="452.97"
+        y="23.16"
+      >
+        Bladen
+      </text>
+    </g>
+<g key="28" transform="scale(1, 1)"> 
+      <rect
+        x="478.89"
+        y="0"
+        width="53.92"
+        height="46.32"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 5.1466666666666665"
+        dominant-baseline="central" text-anchor="middle" 
+        x="505.84999999999997"
+        y="23.16"
+      >
+        Brunswick
+      </text>
+    </g>
+<g key="29" transform="scale(1, 1)"> 
+      <rect
+        x="532.81"
+        y="0"
+        width="55"
+        height="46.32"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 9.264"
+        dominant-baseline="central" text-anchor="middle" 
+        x="560.31"
+        y="23.16"
+      >
+        Vance
+      </text>
+    </g>
+<g key="30" transform="scale(1, 1)"> 
+      <rect
+        x="587.81"
+        y="0"
+        width="56.1"
+        height="46.32"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 5.1466666666666665"
+        dominant-baseline="central" text-anchor="middle" 
+        x="615.8599999999999"
+        y="23.16"
+      >
+        Edgecombe
+      </text>
+    </g>
+<g key="31" transform="scale(1, 1)"> 
+      <rect
+        x="643.9"
+        y="0"
+        width="56.1"
+        height="46.32"
+        style="fill: #1666CB"
+      />
+      <text 
+        style="fill: white; font-size: 15.44"
+        dominant-baseline="central" text-anchor="middle" 
+        x="671.9499999999999"
+        y="23.16"
+      >
+        Lee
+      </text>
+    </g>
+<g key="32" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="46.32"
+        width="55.13"
+        height="47.24"
+        style="fill: #660000"
+      />
+      <text 
+        style="fill: white; font-size: 9.448"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="69.94"
+      >
+        Avery
+      </text>
+    </g>
+<g key="33" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="93.57"
+        width="55.13"
+        height="48.05"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 8.008333333333333"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="117.595"
+      >
+        Person
+      </text>
+    </g>
+<g key="34" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="141.62"
+        width="55.13"
+        height="48.39"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 9.678"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="165.815"
+      >
+        Anson
+      </text>
+    </g>
+<g key="35" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="190.01"
+        width="55.13"
+        height="49.73"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 5.525555555555555"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="214.875"
+      >
+        Granville
+      </text>
+    </g>
+<g key="36" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="239.74"
+        width="55.13"
+        height="50.38"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 8.396666666666667"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="264.93"
+      >
+        Lenoir
+      </text>
+    </g>
+<g key="37" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="290.12"
+        width="55.13"
+        height="53.2"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 5.911111111111111"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="316.72"
+      >
+        Alleghany
+      </text>
+    </g>
+<g key="38" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="343.32"
+        width="55.13"
+        height="55.55"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 9.188333333333334"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="371.09499999999997"
+      >
+        Orange
+      </text>
+    </g>
+<g key="39" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="398.87"
+        width="55.13"
+        height="56.67"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 13.7825"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="427.205"
+      >
+        Polk
+      </text>
+    </g>
+<g key="40" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="455.54"
+        width="55.13"
+        height="59.74"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 6.89125"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="485.41"
+      >
+        Richmond
+      </text>
+    </g>
+<g key="41" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="515.28"
+        width="55.13"
+        height="60.42"
+        style="fill: #002B84"
+      />
+      <text 
+        style="fill: white; font-size: 9.188333333333334"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="545.49"
+      >
+        Wilson
+      </text>
+    </g>
+<g key="42" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="575.69"
+        width="55.13"
+        height="61.1"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 9.188333333333334"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="606.24"
+      >
+        Craven
+      </text>
+    </g>
+<g key="43" transform="scale(1, 1)"> 
+      <rect
+        x="30.56"
+        y="636.8"
+        width="55.13"
+        height="63.2"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 11.026"
+        dominant-baseline="central" text-anchor="middle" 
+        x="58.125"
+        y="668.4"
+      >
+        Union
+      </text>
+    </g>
+<g key="44" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="46.32"
+        width="54.96"
+        height="66.33"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 7.851428571428571"
+        dominant-baseline="central" text-anchor="middle" 
+        x="113.17"
+        y="79.485"
+      >
+        Halifax
+      </text>
+    </g>
+<g key="45" transform="scale(1, 1)"> 
+      <rect
+        x="140.65"
+        y="46.32"
+        width="55.41"
+        height="66.33"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 4.6175"
+        dominant-baseline="central" text-anchor="middle" 
+        x="168.35500000000002"
+        y="79.485"
+      >
+        Transylvania
+      </text>
+    </g>
+<g key="46" transform="scale(1, 1)"> 
+      <rect
+        x="196.06"
+        y="46.32"
+        width="57.75"
+        height="66.33"
+        style="fill: #000051"
+      />
+      <text 
+        style="fill: white; font-size: 14.4375"
+        dominant-baseline="central" text-anchor="middle" 
+        x="224.935"
+        y="79.485"
+      >
+        Pitt
+      </text>
+    </g>
+<g key="47" transform="scale(1, 1)"> 
+      <rect
+        x="253.81"
+        y="46.32"
+        width="60.91"
+        height="66.33"
+        style="fill: #FFB2B2"
+      />
+      <text 
+        style="fill: black; font-size: 12.181999999999999"
+        dominant-baseline="central" text-anchor="middle" 
+        x="284.265"
+        y="79.485"
+      >
+        Swain
+      </text>
+    </g>
+<g key="48" transform="scale(1, 1)"> 
+      <rect
+        x="314.73"
+        y="46.32"
+        width="62.57"
+        height="66.33"
+        style="fill: #FFB2B2"
+      />
+      <text 
+        style="fill: black; font-size: 7.82125"
+        dominant-baseline="central" text-anchor="middle" 
+        x="346.01500000000004"
+        y="79.485"
+      >
+        Cherokee
+      </text>
+    </g>
+<g key="49" transform="scale(1, 1)"> 
+      <rect
+        x="377.3"
+        y="46.32"
+        width="62.63"
+        height="66.33"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 15.6575"
+        dominant-baseline="central" text-anchor="middle" 
+        x="408.615"
+        y="79.485"
+      >
+        Nash
+      </text>
+    </g>
+<g key="50" transform="scale(1, 1)"> 
+      <rect
+        x="439.93"
+        y="46.32"
+        width="63.35"
+        height="66.33"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 7.91875"
+        dominant-baseline="central" text-anchor="middle" 
+        x="471.605"
+        y="79.485"
+      >
+        Carteret
+      </text>
+    </g>
+<g key="51" transform="scale(1, 1)"> 
+      <rect
+        x="503.28"
+        y="46.32"
+        width="64.6"
+        height="66.33"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 12.919999999999998"
+        dominant-baseline="central" text-anchor="middle" 
+        x="535.5799999999999"
+        y="79.485"
+      >
+        Macon
+      </text>
+    </g>
+<g key="52" transform="scale(1, 1)"> 
+      <rect
+        x="567.88"
+        y="46.32"
+        width="65.67"
+        height="66.33"
+        style="fill: #FF4C4C"
+      />
+      <text 
+        style="fill: white; font-size: 10.945"
+        dominant-baseline="central" text-anchor="middle" 
+        x="600.715"
+        y="79.485"
+      >
+        Yadkin
+      </text>
+    </g>
+<g key="53" transform="scale(1, 1)"> 
+      <rect
+        x="633.55"
+        y="46.32"
+        width="66.45"
+        height="66.33"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 6.633"
+        dominant-baseline="central" text-anchor="middle" 
+        x="666.775"
+        y="79.485"
+      >
+        Cumberland
+      </text>
+    </g>
+<g key="54" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="112.65"
+        width="71.53"
+        height="62.47"
+        style="fill: #010144"
+      />
+      <text 
+        style="fill: white; font-size: 8.924285714285714"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="143.885"
+      >
+        Robeson
+      </text>
+    </g>
+<g key="55" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="175.12"
+        width="71.53"
+        height="62.75"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 7.84375"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="206.495"
+      >
+        Columbus
+      </text>
+    </g>
+<g key="56" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="237.87"
+        width="71.53"
+        height="63.72"
+        style="fill: #FFB2B2"
+      />
+      <text 
+        style="fill: black; font-size: 12.744"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="269.73"
+      >
+        Davie
+      </text>
+    </g>
+<g key="57" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="301.59"
+        width="71.53"
+        height="64.05"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 10.674999999999999"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="333.61499999999995"
+      >
+        Duplin
+      </text>
+    </g>
+<g key="58" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="365.64"
+        width="71.53"
+        height="64.93"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 6.493"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="398.105"
+      >
+        Montgomery
+      </text>
+    </g>
+<g key="59" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="430.57"
+        width="71.53"
+        height="66.04"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 8.255"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="463.59"
+      >
+        Beaufort
+      </text>
+    </g>
+<g key="60" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="496.61"
+        width="71.53"
+        height="67.53"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 7.503333333333334"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="530.375"
+      >
+        Alexander
+      </text>
+    </g>
+<g key="61" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="564.14"
+        width="71.53"
+        height="67.83"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 11.305"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="598.055"
+      >
+        Yancey
+      </text>
+    </g>
+<g key="62" transform="scale(1, 1)"> 
+      <rect
+        x="85.69"
+        y="631.97"
+        width="71.53"
+        height="68.03"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 13.606"
+        dominant-baseline="central" text-anchor="middle" 
+        x="121.455"
+        y="665.985"
+      >
+        Moore
+      </text>
+    </g>
+<g key="63" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="112.65"
+        width="62.64"
+        height="77.75"
+        style="fill: #1666CB"
+      />
+      <text 
+        style="fill: white; font-size: 12.528"
+        dominant-baseline="central" text-anchor="middle" 
+        x="188.54"
+        y="151.525"
+      >
+        Wayne
+      </text>
+    </g>
+<g key="64" transform="scale(1, 1)"> 
+      <rect
+        x="219.87"
+        y="112.65"
+        width="62.77"
+        height="77.75"
+        style="fill: #FF4C4C"
+      />
+      <text 
+        style="fill: white; font-size: 8.967142857142857"
+        dominant-baseline="central" text-anchor="middle" 
+        x="251.255"
+        y="151.525"
+      >
+        Madison
+      </text>
+    </g>
+<g key="65" transform="scale(1, 1)"> 
+      <rect
+        x="282.64"
+        y="112.65"
+        width="63.27"
+        height="77.75"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 10.545"
+        dominant-baseline="central" text-anchor="middle" 
+        x="314.275"
+        y="151.525"
+      >
+        Stokes
+      </text>
+    </g>
+<g key="66" transform="scale(1, 1)"> 
+      <rect
+        x="345.91"
+        y="112.65"
+        width="65.93"
+        height="77.75"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 9.418571428571429"
+        dominant-baseline="central" text-anchor="middle" 
+        x="378.875"
+        y="151.525"
+      >
+        Watauga
+      </text>
+    </g>
+<g key="67" transform="scale(1, 1)"> 
+      <rect
+        x="411.84"
+        y="112.65"
+        width="68.62"
+        height="77.75"
+        style="fill: #FF7F7F"
+      />
+      <text 
+        style="fill: white; font-size: 9.802857142857144"
+        dominant-baseline="central" text-anchor="middle" 
+        x="446.15"
+        y="151.525"
+      >
+        Sampson
+      </text>
+    </g>
+<g key="68" transform="scale(1, 1)"> 
+      <rect
+        x="480.47"
+        y="112.65"
+        width="72.35"
+        height="77.75"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 8.038888888888888"
+        dominant-baseline="central" text-anchor="middle" 
+        x="516.645"
+        y="151.525"
+      >
+        Cleveland
+      </text>
+    </g>
+<g key="69" transform="scale(1, 1)"> 
+      <rect
+        x="552.82"
+        y="112.65"
+        width="73.4"
+        height="77.75"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 10.485714285714286"
+        dominant-baseline="central" text-anchor="middle" 
+        x="589.5200000000001"
+        y="151.525"
+      >
+        Lincoln
+      </text>
+    </g>
+<g key="70" transform="scale(1, 1)"> 
+      <rect
+        x="626.22"
+        y="112.65"
+        width="73.78"
+        height="77.75"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 9.2225"
+        dominant-baseline="central" text-anchor="middle" 
+        x="663.11"
+        y="151.525"
+      >
+        McDowell
+      </text>
+    </g>
+<g key="71" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="190.4"
+        width="74.14"
+        height="80.65"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 9.2675"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="230.72500000000002"
+      >
+        Caldwell
+      </text>
+    </g>
+<g key="72" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="271.06"
+        width="74.14"
+        height="81.04"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 10.59142857142857"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="311.58"
+      >
+        Jackson
+      </text>
+    </g>
+<g key="73" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="352.09"
+        width="74.14"
+        height="85.11"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 10.59142857142857"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="394.645"
+      >
+        Harnett
+      </text>
+    </g>
+<g key="74" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="437.21"
+        width="74.14"
+        height="85.31"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 10.59142857142857"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="479.865"
+      >
+        Chatham
+      </text>
+    </g>
+<g key="75" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="522.51"
+        width="74.14"
+        height="86.87"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 6.74"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="565.9449999999999"
+      >
+        New_Hanover
+      </text>
+    </g>
+<g key="76" transform="scale(1, 1)"> 
+      <rect
+        x="157.22"
+        y="609.38"
+        width="74.14"
+        height="90.62"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 8.237777777777778"
+        dominant-baseline="central" text-anchor="middle" 
+        x="194.29"
+        y="654.69"
+      >
+        Henderson
+      </text>
+    </g>
+<g key="77" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="190.4"
+        width="88.79"
+        height="80.55"
+        style="fill: #4389E3"
+      />
+      <text 
+        style="fill: white; font-size: 11.507142857142856"
+        dominant-baseline="central" text-anchor="middle" 
+        x="275.755"
+        y="230.675"
+      >
+        Haywood
+      </text>
+    </g>
+<g key="78" transform="scale(1, 1)"> 
+      <rect
+        x="320.16"
+        y="190.4"
+        width="89.96"
+        height="80.55"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 8.055"
+        dominant-baseline="central" text-anchor="middle" 
+        x="365.14000000000004"
+        y="230.675"
+      >
+        Rockingham
+      </text>
+    </g>
+<g key="79" transform="scale(1, 1)"> 
+      <rect
+        x="410.11"
+        y="190.4"
+        width="92.55"
+        height="80.55"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 16.11"
+        dominant-baseline="central" text-anchor="middle" 
+        x="456.385"
+        y="230.675"
+      >
+        Burke
+      </text>
+    </g>
+<g key="80" transform="scale(1, 1)"> 
+      <rect
+        x="502.66"
+        y="190.4"
+        width="94.43"
+        height="80.55"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 13.424999999999999"
+        dominant-baseline="central" text-anchor="middle" 
+        x="549.875"
+        y="230.675"
+      >
+        Stanly
+      </text>
+    </g>
+<g key="81" transform="scale(1, 1)"> 
+      <rect
+        x="597.09"
+        y="190.4"
+        width="102.91"
+        height="80.55"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 10.06875"
+        dominant-baseline="central" text-anchor="middle" 
+        x="648.5450000000001"
+        y="230.675"
+      >
+        Cabarrus
+      </text>
+    </g>
+<g key="82" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="270.96"
+        width="101.38"
+        height="81.81"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 13.635"
+        dominant-baseline="central" text-anchor="middle" 
+        x="282.05"
+        y="311.865"
+      >
+        Durham
+      </text>
+    </g>
+<g key="83" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="352.76"
+        width="101.38"
+        height="81.99"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 10.24875"
+        dominant-baseline="central" text-anchor="middle" 
+        x="282.05"
+        y="393.755"
+      >
+        Alamance
+      </text>
+    </g>
+<g key="84" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="434.75"
+        width="101.38"
+        height="83.18"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 20.795"
+        dominant-baseline="central" text-anchor="middle" 
+        x="282.05"
+        y="476.34000000000003"
+      >
+        Ashe
+      </text>
+    </g>
+<g key="85" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="517.93"
+        width="101.38"
+        height="90.6"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 9.059999999999999"
+        dominant-baseline="central" text-anchor="middle" 
+        x="282.05"
+        y="563.2299999999999"
+      >
+        Rutherford
+      </text>
+    </g>
+<g key="86" transform="scale(1, 1)"> 
+      <rect
+        x="231.36"
+        y="608.53"
+        width="101.38"
+        height="91.47"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 18.294"
+        dominant-baseline="central" text-anchor="middle" 
+        x="282.05"
+        y="654.265"
+      >
+        Rowan
+      </text>
+    </g>
+<g key="87" transform="scale(1, 1)"> 
+      <rect
+        x="332.74"
+        y="270.96"
+        width="89.35"
+        height="107.88"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 17.869999999999997"
+        dominant-baseline="central" text-anchor="middle" 
+        x="377.415"
+        y="324.9"
+      >
+        Surry
+      </text>
+    </g>
+<g key="88" transform="scale(1, 1)"> 
+      <rect
+        x="422.09"
+        y="270.96"
+        width="90.44"
+        height="107.88"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 11.305"
+        dominant-baseline="central" text-anchor="middle" 
+        x="467.30999999999995"
+        y="324.9"
+      >
+        Johnston
+      </text>
+    </g>
+<g key="89" transform="scale(1, 1)"> 
+      <rect
+        x="512.53"
+        y="270.96"
+        width="91.75"
+        height="107.88"
+        style="fill: #FF7F7F"
+      />
+      <text 
+        style="fill: white; font-size: 15.291666666666666"
+        dominant-baseline="central" text-anchor="middle" 
+        x="558.405"
+        y="324.9"
+      >
+        Wilkes
+      </text>
+    </g>
+<g key="90" transform="scale(1, 1)"> 
+      <rect
+        x="604.27"
+        y="270.96"
+        width="95.73"
+        height="107.88"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 13.675714285714287"
+        dominant-baseline="central" text-anchor="middle" 
+        x="652.135"
+        y="324.9"
+      >
+        Iredell
+      </text>
+    </g>
+<g key="91" transform="scale(1, 1)"> 
+      <rect
+        x="332.74"
+        y="378.84"
+        width="105.85"
+        height="98.07"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 16.345"
+        dominant-baseline="central" text-anchor="middle" 
+        x="385.665"
+        y="427.875"
+      >
+        Gaston
+      </text>
+    </g>
+<g key="92" transform="scale(1, 1)"> 
+      <rect
+        x="332.74"
+        y="476.9"
+        width="105.85"
+        height="110.08"
+        style="fill: #0645B4"
+      />
+      <text 
+        style="fill: white; font-size: 9.622727272727273"
+        dominant-baseline="central" text-anchor="middle" 
+        x="385.665"
+        y="531.9399999999999"
+      >
+        Mecklenburg
+      </text>
+    </g>
+<g key="93" transform="scale(1, 1)"> 
+      <rect
+        x="332.74"
+        y="586.99"
+        width="105.85"
+        height="113.01"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 13.23125"
+        dominant-baseline="central" text-anchor="middle" 
+        x="385.665"
+        y="643.495"
+      >
+        Randolph
+      </text>
+    </g>
+<g key="94" transform="scale(1, 1)"> 
+      <rect
+        x="438.59"
+        y="378.84"
+        width="130.25"
+        height="92.46"
+        style="fill: #1666CB"
+      />
+      <text 
+        style="fill: white; font-size: 23.115"
+        dominant-baseline="central" text-anchor="middle" 
+        x="503.715"
+        y="425.07"
+      >
+        Wake
+      </text>
+    </g>
+<g key="95" transform="scale(1, 1)"> 
+      <rect
+        x="568.84"
+        y="378.84"
+        width="131.16"
+        height="92.46"
+        style="fill: #FFD4D4"
+      />
+      <text 
+        style="fill: black; font-size: 13.208571428571428"
+        dominant-baseline="central" text-anchor="middle" 
+        x="634.4200000000001"
+        y="425.07"
+      >
+        Catawba
+      </text>
+    </g>
+<g key="96" transform="scale(1, 1)"> 
+      <rect
+        x="438.59"
+        y="471.29"
+        width="115.53"
+        height="112.64"
+        style="fill: #C5E1FF"
+      />
+      <text 
+        style="fill: black; font-size: 14.08"
+        dominant-baseline="central" text-anchor="middle" 
+        x="496.35499999999996"
+        y="527.61"
+      >
+        Davidson
+      </text>
+    </g>
+<g key="97" transform="scale(1, 1)"> 
+      <rect
+        x="438.59"
+        y="583.94"
+        width="115.53"
+        height="116.06"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 16.504285714285714"
+        dominant-baseline="central" text-anchor="middle" 
+        x="496.35499999999996"
+        y="641.97"
+      >
+        Forsyth
+      </text>
+    </g>
+<g key="98" transform="scale(1, 1)"> 
+      <rect
+        x="554.11"
+        y="471.29"
+        width="145.89"
+        height="111.19"
+        style="fill: #ABD3FF"
+      />
+      <text 
+        style="fill: black; font-size: 13.89875"
+        dominant-baseline="central" text-anchor="middle" 
+        x="627.0550000000001"
+        y="526.885"
+      >
+        Guilford
+      </text>
+    </g>
+<g key="99" transform="scale(1, 1)"> 
+      <rect
+        x="554.11"
+        y="582.48"
+        width="145.89"
+        height="117.52"
+        style="fill: #86B6F2"
+      />
+      <text 
+        style="fill: black; font-size: 14.69"
+        dominant-baseline="central" text-anchor="middle" 
+        x="627.0550000000001"
+        y="641.24"
+      >
+        Buncombe
+      </text>
+    </g>
+</svg>

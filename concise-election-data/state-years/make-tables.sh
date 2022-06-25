@@ -11,8 +11,18 @@ wget -nv "$PAGE"; mv $YEAR$PT2 $STATE$YEAR.html
 
 grep -n "<tbody>" $STATE$YEAR.html | cut -f1 -d: > temp1.tmp
 grep -n "</tbody>" $STATE$YEAR.html| cut -f1 -d: > temp2.tmp
-paste temp1.tmp temp2.tmp | awk '{print $1, $2, $2-$1+1}' | sort -k3 -nr > tables.tmp
+paste temp1.tmp temp2.tmp | awk '{print $1, $2, $2-$1+1}' | sort -k3 -nr > tables2.tmp
 rm temp*.tmp
+
+
+if [[ "$(awk '{print $3}' tables2.tmp | sort -n -k1 | head -n1)" -lt "0" ]];
+then
+    printf "\n\nRunning Intelligent Table Search on $STATE$YEAR.html. This may take a few seconds.\n\n"
+    ../intelligent-table-search.sh $STATE$YEAR.html > tables.tmp
+    rm tables2.tmp
+else
+    mv tables2.tmp tables.tmp
+fi
 
 BIGGEST=$(awk 'NR == 1 {print $3}' tables.tmp)
 SECONDBIGGEST=$(awk 'NR == 2 {print $3}' tables.tmp)
@@ -25,8 +35,13 @@ then
     grep -ni "[Results ]*by county" $STATE$YEAR.html | cut -f1 -d:
     printf "\nShowing $(head -n 5 tables.tmp | wc -l | awk '{print $1}') of $(wc -l tables.tmp | awk '{print $1}') tables\n"
     awk '{print NR, "Start:", $1, "End:", $2, "Length:", $3}' tables.tmp | head -n 5
-    printf "\n"; echo "Select record number: "; read; RECORD=$REPLY
+    printf "\n"; echo "Select record number: (type ABORT to abort) "; read; RECORD=$REPLY
 fi
+
+if [ "$RECORD" = "ABORT" ]
+then
+    rm *.tmp *.html *.dat
+else
 
 FILE="$STATE$YEAR".dat
 sed -n "$(awk -v l=$RECORD 'BEGIN{OFS=","} NR == l {print $1, $2}' tables.tmp)p" $STATE$YEAR.html > $FILE
@@ -111,6 +126,7 @@ head -n 5 $FILE | awk '{print $0}'
 echo "..."
 tail -n 5 $FILE | awk '{print $0}'
 awk '{OFS=","} {$1=$1;print $0};' $FILE > "$STATE$YEAR".csv
+fi
 done
 mkdir dat; mkdir csv
 mv *.dat dat/

@@ -11,6 +11,10 @@ export const colors = {
   "DIX": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
   "REF": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
   "GRN": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
+  "CON": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
+  "REG": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
+  "AMR": ["#D4FFD4", "#B2FFB2", "#7FFF7F", "#4CFF4C", "#00FF00", "#00B200", "#007F00", "#006600", "#004C00", "#003300"],
+
 }
 export const names = {
   "DEM": "Democratic",
@@ -24,5 +28,6 @@ export const names = {
   "AIP": "American Independent Party",
   "DIX": "Dixiecrat",
   "REF": "Reform",
-  "GRN": "Green"
+  "GRN": "Green",
+  "CON": "Constitution",
 }
