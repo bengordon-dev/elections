@@ -3,7 +3,7 @@
 The code behind [this part of my website.](https://bengordon.dev/projects/elections/treemaps)
 
 ## Example output
-![Texas 2020](./Texas2020.svg)
+<img src="./Texas2020.svg" width="400" height="400"/>
 
 ## Code explanation
 
