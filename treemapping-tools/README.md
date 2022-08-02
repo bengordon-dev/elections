@@ -10,7 +10,7 @@ The make-tables scripts do the heavy lifting. They each do the same thing, pulli
 
 The Python and JS code works together to transform a directory of CSV data files into a directory of beautiful SVG treemap images. 
 
-The [Python script](https://github.com/bengordon-dev/elections/blob/master/treemapping-tools/csvtojsonlist.py) turns the CSV files into an intermediate form which looks like [this.](https://github.com/bengordon-dev/elections/tree/master/treemapping-tools/images/newGA.js) Due to non-uniformity in the Wikipedia data, the amount
+The [Python script](https://github.com/bengordon-dev/elections/blob/master/treemapping-tools/csvtojsonlist.py) turns the CSV files into an intermediate form which looks like [this.](https://github.com/bengordon-dev/personal-website/blob/master/website/src/data/Texas.js) Due to non-uniformity in the Wikipedia data, the amount
 of work it has to do varies greatly. Its functions include the following:
 * Calculating the margin of victory and/or the total number of votes cast in each county when columns for that data are absent from an inputted table 
 * Throwing out any information not required for the final treemap images
